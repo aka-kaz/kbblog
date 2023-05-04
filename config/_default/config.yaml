@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseURL: 'http://kazmierabreest.com/' # Website URL
+baseURL: 'https://kazmierabreest.com/' # Website URL
 
 ############################
 ## LANGUAGE
