@@ -2,7 +2,7 @@
 title: "Kazmiera Breest"
 education:
   courses:
-  - course: MS in Data Analytics and Computational Social Science: UMass Amherst
+  - course: MS in Data Analytics and Computational Social Science UMass Amherst
     year: 2021
   - course: BA in Economics, Minor in Statistics
     institution: UMass Amherst
