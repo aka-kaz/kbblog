@@ -3,27 +3,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Data Analytics and Computational Social Science
+    institution: University of Massachusetts Amherst
+    year: 2021
+  - course: BA in Economics with a minor in Statistics
+    institution: University of Massachusetts Amherst
+    year: 2020
+
 email: ""
-first_name: Alice
+first_name: Kazmiera
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Breest
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: UMass Amherst
+  url: https://donahue.umass.edu/business-groups/economic-public-policy-research/staff
+role: Economic and Public Policy Research Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,7 +47,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Kazmiera Breest
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
