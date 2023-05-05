@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: coffee
-  theme_night: coffee
-  font: coffee
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
   font_size: L
 
 # SEO
@@ -31,19 +31,19 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: l
-    show_logo: false
-    show_language: false
-    show_day_night: false
-    show_search: false
-    highlight_active_link: false
+    show_logo: true
+    show_language: true
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Kazmiera Breest. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
