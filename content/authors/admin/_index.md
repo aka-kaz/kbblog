@@ -6,7 +6,7 @@ education:
   - course: MS in Data Analytics and Computational Social Science
     institution: University of Massachusetts Amherst
     year: 2021
-  - course: BA in Economics with a minor in Statistics
+  - course: BA in Economics, minor in Statistics
     institution: University of Massachusetts Amherst
     year: 2020
 
@@ -14,9 +14,9 @@ email: ""
 first_name: Kazmiera
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Workforce and Labor Force Issues
+- Housing and Transportation Issues
+- Social Determinants of Health
 last_name: Breest
 organizations:
 - name: UMass Amherst
@@ -31,24 +31,25 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/k_breest
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aka-kaz
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kazmierabreest/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV_Breest_043023.pdf
 status:
   icon: ☕️
 superuser: true
 title: Kazmiera Breest
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Hi! I'm Kassie, I'm a mixed-methods social science researcher with a background in Economics and Data Analytics. At heart I'm an organizer; I sort data, behaviors, and ideas to create knowledge and give data-driven answers to public policy questions. I study economics and behavioral trends and I use statistical analysis, writing, and design to describe, understand, and draw conclusions about these phenomena.  I am driven by my desire to reconsider academic writing and make data accessible to all readers which I hope to do through report writing, synthesizing complex concepts and data visualizations.  
+
+
