@@ -77,13 +77,5 @@ minify:
 
 
 
-############################
-## TODO
-############################
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
 
 
