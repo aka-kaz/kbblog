@@ -1,5 +1,5 @@
 ---
-title: "Kazmiera Breest"
+title: "About Me"
 education:
   courses:
   - course: MS in Data Analytics and Computational Social Science UMass Amherst
