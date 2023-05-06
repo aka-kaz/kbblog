@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My work focuses on empirical approaches to social science research featuring qualitative and quantitative methods.
 education:
   courses:
   - course: MS in Data Analytics and Computational Social Science
@@ -50,6 +49,6 @@ superuser: true
 title: Kazmiera Breest
 ---
 
-Hi! I'm Kassie, I'm a mixed-methods social science researcher with a background in Economics and Data Analytics. At heart I'm an organizer; I sort data, behaviors, and ideas to create knowledge and give data-driven answers to public policy questions. I study economics and behavioral trends and I use statistical analysis, writing, and design to describe, understand, and draw conclusions about these phenomena.  I am driven by my desire to reconsider academic writing and make data accessible to all readers which I hope to do through report writing, synthesizing complex concepts and data visualizations.  
+I'm Kassie, I'm a mixed-methods social science researcher with a background in Economics and Data Analytics. At heart I'm an organizer; I sort data, behaviors, and ideas to create knowledge and give data-driven answers to public policy questions. I study economics and behavioral trends and I use statistical analysis, writing, and design to describe, understand, and draw conclusions about these phenomena.  I am driven by my desire to reconsider academic writing and make data accessible to all readers which I hope to do through report writing, synthesizing complex concepts and data visualizations.  
 
 
