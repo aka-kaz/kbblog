@@ -35,11 +35,13 @@ sections:
 #      gradient_end: '#1976d2'
 #      gradient_start: '#004ba0'
 #      text_color_light: true
+######################
 - block: about.biography
   content:
     title: Hi there!
     username: admin
   id: about
+######################
 - block: features
   content:
     items:
@@ -80,6 +82,7 @@ sections:
       icon_pack: fas
       name: Design
     title: Skills
+######################
 - block: experience
   content:
     date_format: Jan 2006
@@ -127,38 +130,43 @@ sections:
     title: Experience
   design:
     columns: "2"
+######################
 - block: accomplishments
   content:
     date_format: Jan 2006
     items:
-    - certificate_url: https://www.coursera.org
+    - certificate_url: https://www.gazettenet.com/UMass-housing-report-finds-that-affordability-and-segregation-problems-in-Pioneer-Valley-45695564 
       date_end: ""
       date_start: "2021-01-25"
-      description: ""
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
+      description: As a part of the 'Springfield Housing Report Phase II' for WayFinders, I created a method ussing ACS data from the U.S. Census to estimate the number of housing units needed at different income levels in the Pioneer Valley’s counties, and then to show where and how the housing stock is divided up among different target tenant types. By identifying the number of households at each income category, this method creates an estimate of what’s needed to compare to what rental stock is available at which prices. The result is a conservative estimate of how many more units are needed and at what prices, gauging only the minimum number of units to be added.
+      organization: WayFinders
+      organization_url: https://www.wayfinders.org/introducing-phase-ii-springfield-pioneer-valley-housing-report
+      title: Estimating Housing Mismatch at all Income Levels
       url: ""
-    - certificate_url: https://www.edx.org
+      
+    - certificate_url: https://secure.acce.org/articles/education-and-talent/north-central-massachusetts-chamber-study-shows-hidden-future-workers-key-to-workforce-challenges/?back=super_blog    
       date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
+      date_start: "2022-12-01"
+      description: As a part of the 'Engaging Hidden and Future Workers to Grow the Local Economy' for the North Central Chamber of Commerce, I created a taxonomy to describe the different barriers to work that we found through interviews with businesses and literature reviews. By categorizing the reasons that workers were not entering the workforce, we were able to suggest strategies at the short, mid and long term to help bring hidden and future workers into the workforce. The study was scoped to focus on the labor market issues in North Central, Massachusetts, but the reccomendations included can be used as a roadmap for all stakeholders in Massachusetts, or nationally, to overcome shared challenges for employers and workers alike. Being born and raised in Central Massachusetts, I was so thankful to be able to give back to my community in this way. 
+      organization: North Central Chamber of Commerce
+      organization_url: https://www.northcentralmass.com/wp-content/uploads/2022/11/Workforce-Study-Engaging-Hidden-and-Future-Workers-to-Grow-the-Local-Economy-11.29.2022.pdf
+      title: Engaging Hidden and Future Workers to Grow the Local Economy
       url: ""
+      
+    - certificate_url: https://dacss-research.constantcontactsites.com/featured-research/post/1270572/kazmiera-breest-examines-the-bread-and-butter-of-the-american-working-class-the-minimum-wage 
+      date_end: ""
+      date_start: "2021-08-01"
+      description: For my final semester in the Data Analytics and Computational Social Science program, I conducted a multi-faceted research project to satisfy the final project requirements for my four classes where I chose to investigate minimum wage policy in the United States. My Public Policy class provided the framework for my analysis, where I conducted an Institutional Analysis to analyze how institutions are created and designed and how these institutions affect human choices and societal outcomes. Text-as-Data acted as a tool for this analysis, where I created a corpus of minimum wage legislation and used an Institutional Grammar framework to analyse the rules, norms, strategies, and constraints on human behaviors. Regional Planning provided training in ArcGIS pro, which I used to how minimum wage law is distributed spatially across the United States and over time since the 1970s. Finally, in my Data-Driven Journalism class I interviewed family members who worked minimum wage jobs in the 1950s, 2000s, and 2010s to create a multi-media news story supporting my research.
+      organization: DACSS
+      organization_url: https://rpubs.com/kassieb/dacss604
+      title: So, How much is Minimum Wage Labor Actually Worth?
+      url: ""
+      
     subtitle: null
-    title: Accomplish&shy;ments
+    title: Highlights
   design:
     columns: "2"
+######################
 - block: markdown
   content:
     subtitle: ""
@@ -166,6 +174,7 @@ sections:
     title: Gallery
   design:
     columns: "1"
+######################
 - block: portfolio
   content:
     buttons:
@@ -185,6 +194,7 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
+######################
 - block: collection
   content:
     filters:
@@ -196,6 +206,7 @@ sections:
     columns: "2"
     view: card
   id: featured
+######################
 - block: collection
   content:
     filters:
@@ -210,6 +221,7 @@ sections:
   design:
     columns: "2"
     view: citation
+######################
 - block: collection
   content:
     count: 5
@@ -232,6 +244,7 @@ sections:
     columns: "2"
     view: compact
   id: posts
+######################
 - block: contact
   content:
     address:
