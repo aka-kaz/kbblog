@@ -51,14 +51,6 @@ sections:
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: 10%
-      icon: palette
-      icon_pack: fas
-      name: Design
-   - description: 10%
-      icon: earth-americas
-      icon_pack: fas
-      name: ArcGIS Pro
     title: Skills
 - block: experience
   content:
@@ -72,11 +64,12 @@ sections:
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
+          * Statistical analysis using R, STATA, Excel and ArcGIS.
+          * Survey design, collection and analysis using Qualtrics and Google Forms.
+          * Focus group and interview design, facilitation and analysis in Nvivo.
+          * Report conceptualization, writing, and editing using Microsoft Word.
+      location: Hadley, MA
+      title: Research Analyst
     - company: University X
       company_logo: org-x
       company_url: ""
