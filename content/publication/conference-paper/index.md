@@ -1,18 +1,16 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The New Employee Survey was designed to gather information on work-related characteristics of new casino employees that could not be collected from any other source. The survey data can help workforce development providers and policymakers better understand the workforce at the Commonwealth’s three casinos. This report summarizes the results of a New Employee survey administered by the Massachusetts Gaming Commission (MGC) to the incoming employees hired at Encore Boston Harbor (EBH).
 author_notes:
+- ""
+- Project Manager
 - Equal contribution
 - Equal contribution
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Rebecca Loveland
+- Ellen Aron
+- Andrew Hall
+date: "2022-12-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,32 +19,18 @@ image:
   preview_only: false
 projects:
 - example
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Produced for the *Massachusetts Gaming Comission* as a part of the *Social and Economic Impacts of Gaming in Massachusetts* project by the *UMass Donahue Institute's Economic and Public Policy Research Team*
+publication_short: Massachusetts Gaming Commission
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Analysis showed that casino employment has been serving several purposes for the Commonwealth’s workers, including those who have been underemployed, younger workers, women, and workers of color. 
 tags: []
-title: An example conference paper
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+title: New Employee Survey at Encore Boston Harbor
+url_pdf: https://massgaming.com/wp-content/uploads/New-Employee-Survey-at-Encore-Boston-Harbor-Report-12.6.22.pdf
+url_slides: https://massgaming.com/wp-content/uploads/New-Employee-Survey-at-Encore-Boston-Harbor-Presentation-12.6.22.pdf
+url_video: https://www.youtube.com/watch?v=Mi8iO6ZGq9s 
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
