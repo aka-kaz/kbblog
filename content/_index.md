@@ -52,19 +52,23 @@ sections:
       icon_pack: fas
       name: Statistics
     - description: 10%
-      icon: camera-retro
+      icon: palette
       icon_pack: fas
-      name: Photography
+      name: Design
+   - description: 10%
+      icon: earth-americas
+      icon_pack: fas
+      name: ArcGIS Pro
     title: Skills
 - block: experience
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: UMass Donahue Institute
       company_logo: org-gc
       company_url: ""
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2021-02-02"
       description: |2-
           Responsibilities include:
 
