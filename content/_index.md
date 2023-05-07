@@ -175,25 +175,25 @@ sections:
   design:
     columns: "1"
 ######################
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
+#- block: portfolio
+#  content:
+#    buttons:
+#    - name: All
+#      tag: '*'
+#    - name: Deep Learning
+#      tag: Deep Learning
+#    - name: Other
+#      tag: Demo
+#    default_button_index: 0
+#    filters:
+#      folders:
+#      - project
+#    title: Projects
+#  design:
+#    columns: "1"
+#    flip_alt_rows: false
+#    view: showcase
+#  id: projects
 ######################
 - block: collection
   content:
@@ -207,43 +207,43 @@ sections:
     view: card
   id: featured
 ######################
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
-    title: Publications
-  design:
-    columns: "2"
-    view: citation
+#- block: collection
+#  content:
+#    filters:
+#     exclude_featured: true
+#      folders:
+#     - publication
+#   text: |-
+#      {{% callout note %}}
+#      Quickly discover relevant content by [filtering publications](./publication/).
+#      {{% /callout %}}
+#    title: Publications
+#  design:
+#    columns: "2"
+#    view: citation
 ######################
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      folders:
-      - post
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    subtitle: ""
-    text: ""
-    title: Recent Posts
-  design:
-    columns: "2"
-    view: compact
-  id: posts
+#- block: collection
+#  content:
+#    count: 5
+#    filters:
+#      author: ""
+#      category: ""
+#      exclude_featured: false
+#      exclude_future: false
+#      exclude_past: false
+#      folders:
+#      - post
+#      publication_type: ""
+#     tag: ""
+#    offset: 0
+#    order: desc
+#    subtitle: ""
+#    text: ""
+#    title: Recent Posts
+#  design:
+#    columns: "2"
+#    view: compact
+#  id: posts
 ######################
 - block: contact
   content:

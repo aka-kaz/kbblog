@@ -31,15 +31,15 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/k_breest
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/aka-kaz
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kazmierabreest/
+- icon: file-lines
+  icon_pack: fas
+  link: uploads/Resume_Breest_042523.pdf
 - icon: cv
   icon_pack: ai
   link: uploads/CV_Breest_043023.pdf
